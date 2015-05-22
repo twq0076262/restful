@@ -2,7 +2,7 @@
 
 ## 什么是 REST？
 
-REST 表示表征性状态传输（REpresentational State Transfer）。REST 是一种基于 Web 标准的软件架构，它使用 HTTP 协议处理数据通信。它以资源为中心，其中每个组成部分都是一个资源，并且资源通过使用 HTTP 标准方法的公共接口访问。REST 由 Roy Fielding 在 2000 年首次提出。
+REST 是REpresentational State Transfer 的缩写。REST 是一种基于 Web 标准的软件架构，它使用 HTTP 协议处理数据通信。它以资源为中心，其中每个组成部分都是一个资源，并且资源通过使用 HTTP 标准方法的公共接口访问。REST 由 Roy Fielding 在 2000 年首次提出。
 
 在 REST 架构中，一个 REST 服务器只提供对资源的访问，REST 客户端访问并呈现资源。这里每个资源都通过 URIs/ 全局 ID 标识。REST 使用各种不同的表现形式表示资源，比如文本，JSON 和 XML。目前，JSON 是用于 Web 服务最流行的格式。
 
