@@ -1,5 +1,4 @@
  - RESTful 教程
-   - [RESTful - 主页](index.md)
    - [RESTful - 介绍](introduction.md)
    - [RESTful - 环境配置](environment.md)
    - [第一个 RESTful 应用](first-application.md)
